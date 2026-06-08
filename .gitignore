@@ -509,3 +509,16 @@ minecraft/config/spark/activity.json
 minecraft/config/spark/config.json
 minecraft/config/titanium/titanium-tags.toml
 minecraft/config/titanium/titanium.toml
+minecraft/debug.log
+minecraft/mods/mcef-cache
+minecraft/mods/mcef-libraries
+minecraft/config/ccl.cfg
+minecraft/config/ChickenChunks.cfg
+minecraft/config/esm-config.toml
+minecraft/config/cyberware-common.toml
+minecraft/config/packetfixer.properties
+minecraft/config/storagedrawers-client.toml
+minecraft/config/storagedrawers-common.v2.toml
+minecraft/config/wegotrunnersconfig.toml
+minecraft/config/wegotrunnersconfigclient.toml
+minecraft/config/jei/world/server/Minecraft_____1e0511fb/bookmarks.ini
